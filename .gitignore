@@ -1,0 +1,21 @@
+# Ignorar arquivos e pastas do sistema Windows
+AppData/
+Contacts/
+Desktop/
+Downloads/
+Favorites/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+ntuser.dat
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+
+git add -f ../../../../AppData/
+git add -f ../../../../Contacts/
+git add -f ../../../../Desktop/
+...

@@ -1,0 +1,29 @@
+body{
+    background-color: #D5F2EA;
+    font-family: Helvetica, sans-serif;
+}
+
+.margin{
+    margin: auto;
+    max-width: 700px;
+    margin-top: 10px;   
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: #fff;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 5px;
+}
+
+.margin h1{
+    font-size: 25px;
+}
+
+.btn{
+    background-color: #3FA693;
+    border: 1px solid #3FA693;
+}
+
+.btn:hover{
+    background-color: #f13b3b;
+    border: 1px solid #F24444;
+}
